@@ -1,0 +1,13 @@
+data: 19/07/21
+autore: Auro Monaco
+
+Cosa farò oggi:
+- prendere il treno per torino
+- ritirare i documenti
+- andare a lezione
+- imparare git
+- pausa caffé
+- pausa pranzo
+- esercitazioni su conditionals
+- andare a casa
+- cenare
